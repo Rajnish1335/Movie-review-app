@@ -32,6 +32,7 @@
 @media (max-width: 600px) {
   .pageTitle {
     font-size: 7vw;
+    padding-top: 30px;
   }
   .topSpacing {
     padding-top: 20px;
