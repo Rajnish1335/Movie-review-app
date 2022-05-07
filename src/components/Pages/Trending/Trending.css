@@ -21,6 +21,7 @@
   width: 100%;
   color: white;
   padding-top: 15px;
+  font-weight: bold;
 }
 
 @media (max-width: 1000px) {
@@ -33,6 +34,7 @@
   .pageTitle {
     font-size: 7vw;
     padding-top: 30px;
+    font-weight: bold;
   }
   .topSpacing {
     padding-top: 10px;
