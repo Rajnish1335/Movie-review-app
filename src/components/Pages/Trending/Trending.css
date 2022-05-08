@@ -24,17 +24,20 @@
 }
 
 @media (max-width: 1000px) {
-  .header {
-    font-size: 6vw;
-    padding-top: 5px;
+  .pageTitle {
+    font-size: 6.7vw;
   }
 }
 
-@media (max-width: 620px) {
-  .header {
-    font-size: 6.2vw;
-    padding-top: 10px;
+@media (max-width: 630px) {
+  .pageTitle {
+    font-size: 7vw;
+    padding-top: 25px;
     font-weight: bold;
   }
+  .topSpacing {
+    padding-top: 20px;
+  }
 }
+
 
