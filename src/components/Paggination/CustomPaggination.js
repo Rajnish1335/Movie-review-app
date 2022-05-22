@@ -15,8 +15,6 @@ export default function BasicPagination({setPage, numOfPages}) {
       hidePrevButton 
       hideNextButton
       count={numOfPages>450? 450 : numOfPages}
-      hidePrevButton 
-      hideNextButton
       color="primary" 
       sx={{ 
             display: 'flex',
