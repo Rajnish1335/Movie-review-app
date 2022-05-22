@@ -13,6 +13,8 @@ export default function BasicPagination({setPage, numOfPages}) {
       <div>
       {numOfPages >1 && <Pagination onChange={(e) => {handlePageChange(e.target.textContent)}} 
       count={numOfPages>450? 450 : numOfPages}
+      hidePrevButton 
+      hideNextButton
       color="primary" 
       sx={{ 
             display: 'flex',

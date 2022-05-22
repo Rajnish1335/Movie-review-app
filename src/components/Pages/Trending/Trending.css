@@ -20,7 +20,8 @@
   font-size: 3vw;
   width: 100%;
   color: white;
-  padding-top: 15px;
+  padding-top: 30px;
+  font-weight: bold;
 }
 
 @media (max-width: 1000px) {
@@ -29,9 +30,11 @@
   }
 }
 
-@media (max-width: 600px) {
+@media (max-width: 630px) {
   .pageTitle {
     font-size: 7vw;
+    padding-top: 25px;
+    font-weight: bold;
   }
   .topSpacing {
     padding-top: 20px;

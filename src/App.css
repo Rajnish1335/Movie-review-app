@@ -1,9 +1,8 @@
 .app {
   min-height: 100vh;
-  /*background-color: #1e374a;*/
   background-color: #39445a;
   color: white;
-  padding-bottom: 10px;
+  padding-bottom: 20px;
 }
 
 .buttom {
