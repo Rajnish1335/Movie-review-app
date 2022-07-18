@@ -36,7 +36,7 @@ const Trending = () => {
           title={t.title || t.name} 
           date={t.first_air_date || t.release_date}
           media_type={t.media_type}
-          vote_average={t.vote_average}
+          vote_average={parseFloat(t.vote_average).toFixed(1)}
           /> )
         }
       </div>
