@@ -9,7 +9,7 @@
 }
 
 .topSpacing {
-  padding-top: 90px;
+  padding-top: 50px;
 }
 
 .pageTitle {
@@ -37,6 +37,6 @@
     font-weight: bold;
   }
   .topSpacing {
-    padding-top: 50px;
+    padding-top: 30px;
   }
 }
